@@ -1,0 +1,15 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "C:\\Users\\ccurrin\\Anaconda3\\python.exe",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        ".",
+        "-p",
+        "*test*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": false,
+    "python.testing.promptToConfigure": false
+}
